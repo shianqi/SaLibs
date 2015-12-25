@@ -1,0 +1,11 @@
+
+.container {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.controls {
+    position: absolute;
+    right: 20px;
+}
