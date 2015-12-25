@@ -13,6 +13,7 @@ hr{
 }
 
 .menu {
+  z-index: 100;
   position: fixed;
   background: #222E2A;
   margin: 0;
